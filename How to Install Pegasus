@@ -1,0 +1,15 @@
+Open the terminal and type following commands.
+
+$ apt update
+
+$ apt install git
+
+$ git clone https://github.com/sobri3195/pegasus-one.git
+
+$ chmod +x pegasus-one/install
+
+$ sh pegasus-one/install
+
+ if not work than use 
+
+$ ./pegasus-one/install
